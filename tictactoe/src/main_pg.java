@@ -4,7 +4,7 @@ import java.util.*;
 import javax.swing.*;
 public class main_pg{
     public static void main(String args[]){
-       xo obj = new xo(); 
+    xo obj = new xo();
     }
 }
 class xo implements ActionListener{
